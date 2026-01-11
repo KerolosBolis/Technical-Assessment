@@ -1,0 +1,4 @@
+CREATE TABLE Departments (
+    ID INT PRIMARY KEY,
+    Name VARCHAR(100)
+);

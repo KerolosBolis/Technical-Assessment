@@ -1,0 +1,6 @@
+# Dependency folders (very large, can be rebuilt with npm install)
+node_modules/
+
+# Local environment variables (contains database passwords/secrets)
+.env
+
