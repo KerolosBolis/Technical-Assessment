@@ -1,4 +1,4 @@
-Technical Assessment
+## Technical Assessment
 
 A professional Node.js REST API built with Express, featuring a modular MVC architecture, ES6 Modules, and a MySQL database backend.
 
